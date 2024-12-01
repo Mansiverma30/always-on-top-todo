@@ -1,8 +1,4 @@
-Here’s the updated README.md file with the change you requested:
-
-```markdown
 # Always on Top Todo App
-
 This is a simple and efficient To-Do application built using Electron, React, and Tailwind CSS. The application stays always on top, allowing users to manage their tasks without being interrupted by other windows. It’s designed to be minimal and easy to use.
 
 ## Features
