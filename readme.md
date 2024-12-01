@@ -36,11 +36,20 @@ npm run dev
 
 This will start the app and open it in your browser.
 
+To run the app in development mode, execute:
+
+```bash
+npm start
+```
+
+This will start the app and open it in your desktop
+
 ## Production Build
 
 To build the app for production and create an installer, run:
 
 ```bash
+npm run build
 npm run dist
 ```
 
