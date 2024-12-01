@@ -49,8 +49,3 @@ This will generate the distributable files in the `dist` folder.
 ## Styling
 
 The app uses Tailwind CSS, but the primary focus was on the app's features rather than extensive customization of the CSS.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-```
